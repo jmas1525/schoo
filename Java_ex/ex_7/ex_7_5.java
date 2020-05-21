@@ -1,0 +1,10 @@
+class ex_7_5 {
+	
+	static void hello() {
+		System.out.println("Ç±ÇÒÇ…ÇøÇÕÅB");
+	}
+	
+	public static void main(String[] args) {
+		hello();
+	}
+}
